@@ -8,6 +8,9 @@ android {
         applicationId "org.opencv.samples.facedetect"
         minSdkVersion 8
         targetSdkVersion 8
+        ndk {
+            abiFilters 'armeabi-v7a'
+        }
     }
 
     buildTypes {
