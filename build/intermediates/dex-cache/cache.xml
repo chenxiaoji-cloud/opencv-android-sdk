@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/Downloads/opencv-android-sdk/openCVSamplefacedetection/build/intermediates/exploded-aar/opencv-android-sdk/openCVLibrary320/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38981821a8bdb3d6502b4bbd7181356b36594dc7">
+        <dex dex="/root/Downloads/opencv-android-sdk/openCVSamplefacedetection/build/intermediates/pre-dexed/debug/opencv-android-sdk-openCVLibrary320-unspecified_7352444ac0dcacde12c4601adc98ffd24c74bc29.jar" />
+    </item>
+
+</items>
